@@ -20,7 +20,7 @@ randomForest
 Rcpp
 RcppArmadillo
 RcppParallel
+RcppProgress
 reshape2
 stargazer
 tidyverse
-RcppProgress
