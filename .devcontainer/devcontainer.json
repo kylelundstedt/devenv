@@ -1,8 +1,8 @@
 {
-    "name": "Thesis_Gas",
-    "image": "ghcr.io/berrij/devenv:dev",
+    "name": "DevEnv",
+    "image": "ghcr.io/berrij/devenv:latest",
     // Grant xhost access to root user in order to start x11 devices (r plots)
-    "initializeCommand": "docker pull ghcr.io/berrij/devenv:dev; xhost local:root",
+    "initializeCommand": "docker pull ghcr.io/berrij/devenv:latest; xhost local:root",
     // Arguments to docker run so container can use local x11
     "runArgs": [
         "--rm",
@@ -63,7 +63,6 @@
         "editor.formatOnPaste": true,
         "editor.formatOnType": true,
         "editor.formatOnSave": true,
-        "editor.formatOnSaveMode": "modifications",
         // Use zsh
         "terminal.integrated.shell.linux": "/bin/zsh"
     }
