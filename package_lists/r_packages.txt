@@ -25,3 +25,7 @@ RcppProgress
 reshape2
 stargazer
 tidyverse
+foreach
+parallel
+doParallel
+tictoc
