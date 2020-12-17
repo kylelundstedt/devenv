@@ -31,3 +31,4 @@ reshape2
 stargazer
 tictoc
 tidyverse
+rugarch
