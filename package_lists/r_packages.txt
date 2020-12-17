@@ -4,6 +4,7 @@ cowplot
 data.table
 devtools
 doParallel
+doSNOW
 energy
 foreach
 forecast
@@ -19,6 +20,7 @@ pander
 parallel
 pdftools
 profvis
+Quandl
 quantreg
 randomForest
 Rcpp
@@ -29,5 +31,3 @@ reshape2
 stargazer
 tictoc
 tidyverse
-Quandl
-doSNOW
