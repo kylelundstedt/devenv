@@ -29,3 +29,5 @@ reshape2
 stargazer
 tictoc
 tidyverse
+Quandl
+doSNOW
