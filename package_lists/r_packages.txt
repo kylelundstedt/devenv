@@ -28,7 +28,7 @@ RcppArmadillo
 RcppParallel
 RcppProgress
 reshape2
+rugarch
 stargazer
 tictoc
 tidyverse
-rugarch
