@@ -61,6 +61,7 @@ setspace
 siunitx
 soul
 standalone
+subfigure
 svn-prov
 tabu
 tabulary
@@ -77,4 +78,3 @@ xfor
 xkeyval
 xpatch
 xstring
-subfigure
