@@ -78,10 +78,10 @@ textpos
 thumbpdf
 #! To check which packages belong to an .sty file: tlmgr search --global --file "authblk.sty"
 tracklang
+ulem
 varwidth
 was
 xfor
 xkeyval
 xpatch
 xstring
-ulem
